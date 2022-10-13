@@ -9,6 +9,11 @@ Si estáis aquí para curiosear, lo que más me gusta es:
 2. Las pelis de miedo
 3. El Dark Souls
         * El Dark Souls 2 no cuenta
+
+Como dijo la poeta Rosalía:
+> Baby... no me llame
+> Que yo estoy ocupada... olvidando tus male
+> 
 <!--
 **manuelgomezasir1/manuelgomezasir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
