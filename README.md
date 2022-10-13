@@ -19,7 +19,7 @@ Como dijo la poeta Rosalía:
 
 Un peliculón:
 
-!(/images/444755fa82d64aebd58e3d39d18ed555.jpg)
+! [/mi imagen](/444755fa82d64aebd58e3d39d18ed555.jpg)
 
 ![Alt text](https://i.pinimg.com/originals/44/47/55/444755fa82d64aebd58e3d39d18ed555.jpg)
 
