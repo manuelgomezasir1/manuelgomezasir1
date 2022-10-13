@@ -11,9 +11,14 @@ Si estáis aquí para curiosear, lo que más me gusta es:
         * El Dark Souls 2 no cuenta
 
 Como dijo la poeta Rosalía:
-> Baby... no me llame
-> Que yo estoy ocupada... olvidando tus male
-> 
+>Baby... 
+>no me llame
+>Que yo etoy ocupa... 
+>olvidando tu male
+
+![mi imagen](/images/444755fa82d64aebd58e3d39d18ed555.jpg)
+format: ![Alt text](https://i.pinimg.com/originals/44/47/55/444755fa82d64aebd58e3d39d18ed555.jpg)
+
 <!--
 **manuelgomezasir1/manuelgomezasir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
