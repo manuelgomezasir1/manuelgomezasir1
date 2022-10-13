@@ -17,9 +17,12 @@ Como dijo la poeta Rosalía:
 >
 > *olvidando tu male*
 
-![mi imagen](/images/444755fa82d64aebd58e3d39d18ed555.jpg)
+Un peliculón:
 
-format: ![Alt text](https://i.pinimg.com/originals/44/47/55/444755fa82d64aebd58e3d39d18ed555.jpg)
+[(/images/444755fa82d64aebd58e3d39d18ed555.jpg)](https://github.com/manuelgomezasir1/manuelgomezasir1/blob/main/444755fa82d64aebd58e3d39d18ed555.jpg)
+
+
+![Alt text](https://i.pinimg.com/originals/44/47/55/444755fa82d64aebd58e3d39d18ed555.jpg)
 
 <!--
 **manuelgomezasir1/manuelgomezasir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
