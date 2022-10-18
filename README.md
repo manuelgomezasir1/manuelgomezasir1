@@ -13,11 +13,11 @@ Como dijo la poeta Rosalía:
 >
 > *no me llame*
 >
-> *Que yo etoy ocupa...* 
+> *Que yo etoy ocupao...* 
 >
 > *olvidando tu male*
 
-Un peliculón:
+Un peliculón 🚙 🚗!
 
 ! [/mi imagen](/444755fa82d64aebd58e3d39d18ed555.jpg)
 
